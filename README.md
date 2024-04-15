@@ -41,7 +41,7 @@ Write code for an API that be able to list all products of the store by category
 
 If the query string is proven, the api delivers the products based on the given category, otherwise (If the request does not include the query string for categoryName) The api delivers all of the products.
 
-<img width="1200" height="600" alt="Assignment3" src="https://github.com/CanberkTimurlenk/RobotDreams-Spring-Course-Assignment3/assets/18058846/fd40dd00-52b8-4bd9-9c3a-fca5229f8b6c">
+<img width="1200" height="600" alt="Assignment3" src="https://github.com/CanberkTimurlenk/RobotDreams-Spring-Course-Assignments/assets/18058846/aade66e6-448b-4838-b2f5-68d4dcdf1d9a">
 
 <br>
 <br>
