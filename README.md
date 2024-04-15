@@ -149,17 +149,18 @@ public class Product extends BaseEntity implements Serializable {
 
 <br>
 
-![resim](https://github.com/CanberkTimurlenk/RobotDreams-Spring-Course-Assignment6/assets/18058846/18df1bc5-7f07-4c4b-be24-9517118925af)
+![image](https://github.com/CanberkTimurlenk/RobotDreams-Spring-Course-Assignments/assets/18058846/16578751-f851-4871-a84c-51bdb417f55e)
 
 <br>
 
 Product Table
-![resim](https://github.com/CanberkTimurlenk/RobotDreams-Spring-Course-Assignment6/assets/18058846/0dee6754-dee2-483a-9d83-89440d394684)
+![product-table](https://github.com/CanberkTimurlenk/RobotDreams-Spring-Course-Assignments/assets/18058846/b1ca4853-7147-4684-b105-3fa5f6bcc356)
+
 
 <br>
 
 ProductDetail Table
-![resim](https://github.com/CanberkTimurlenk/RobotDreams-Spring-Course-Assignment6/assets/18058846/9967450e-a70e-48ca-9e6a-c7220f7c44f6)
+![productDetail-table](https://github.com/CanberkTimurlenk/RobotDreams-Spring-Course-Assignments/assets/18058846/0f4f1934-50e2-48ff-90f8-2bdf1e306942)
 
 <br>
 <hr>
@@ -188,34 +189,32 @@ public class Order extends BaseEntity implements Serializable {
 <br>
 
 Post an order
-![resim](https://github.com/CanberkTimurlenk/RobotDreams-Spring-Course-Assignment6/assets/18058846/667fddaa-6496-41a6-a9f0-e0c7671b38ea)
+![image](https://github.com/CanberkTimurlenk/RobotDreams-Spring-Course-Assignments/assets/18058846/0a2c9410-3fa6-4f13-9278-90735e231398)
 
 <br>
 
 Orders Table <br>
-![resim](https://github.com/CanberkTimurlenk/RobotDreams-Spring-Course-Assignment6/assets/18058846/eb5bf637-e0f6-4ded-a3da-451e33e5367f)
+![image](https://github.com/CanberkTimurlenk/RobotDreams-Spring-Course-Assignments/assets/18058846/cc80a19b-2175-4606-af19-3903decc11d2)
 
 <br>
 
 OrderProducts Table <br>
-
-![resim](https://github.com/CanberkTimurlenk/RobotDreams-Spring-Course-Assignment6/assets/18058846/42999fc4-d8bc-4809-a155-1c916d1d4bea)
+![image](https://github.com/CanberkTimurlenk/RobotDreams-Spring-Course-Assignments/assets/18058846/96200674-5d2d-4f53-8ff7-4182332b0c22)
 
 <br> 
 
 Delete request to delete created Order <br>
-![resim](https://github.com/CanberkTimurlenk/RobotDreams-Spring-Course-Assignment6/assets/18058846/93341d79-bb83-4152-a3f2-68cb057c94e8)
-
+![image](https://github.com/CanberkTimurlenk/RobotDreams-Spring-Course-Assignments/assets/18058846/17c5df64-d6d7-49d7-88b7-e6bbbfb9ec26)
 
 <br>
 
 Orders Table <br>
-![resim](https://github.com/CanberkTimurlenk/RobotDreams-Spring-Course-Assignment6/assets/18058846/28c2ffb2-7c41-4fcf-938d-f21a546f9a25)
+![image](https://github.com/CanberkTimurlenk/RobotDreams-Spring-Course-Assignments/assets/18058846/b5a8af32-d745-4171-a628-01a3e478d781)
 
 <br>
 
 OrderProducts Table <br>
-![resim](https://github.com/CanberkTimurlenk/RobotDreams-Spring-Course-Assignment6/assets/18058846/da0a1fce-e728-4035-88be-a80597beb982)
+![image](https://github.com/CanberkTimurlenk/RobotDreams-Spring-Course-Assignments/assets/18058846/f8d6018c-c76f-4a89-84da-29a4665f1687)
 
 <br>
 <br>
@@ -256,19 +255,16 @@ Implement exception handling in the order and product services where you deem ne
 <br>
 
 1- A post request was sent to create product with price "1"
-![resim](https://github.com/CanberkTimurlenk/RobotDreams-Spring-Course-Assignment8/assets/18058846/650217da-326c-489a-b167-9769b82b85e5)
+![image](https://github.com/CanberkTimurlenk/RobotDreams-Spring-Course-Assignments/assets/18058846/318ce851-8813-4714-b0ca-bd25bf00e833)
 
 <br>
 <br>
 
 2- A post request was sent to create an order with a product which was created in previous step
-![resim](https://github.com/CanberkTimurlenk/RobotDreams-Spring-Course-Assignment8/assets/18058846/e878afb6-3fde-41bf-8701-b562bfac4eb1)
-
+![image](https://github.com/CanberkTimurlenk/RobotDreams-Spring-Course-Assignments/assets/18058846/daf40916-e5a8-4651-b3b1-c30e5e5e84de)
 
 Observed Console Output
-
-![resim](https://github.com/CanberkTimurlenk/RobotDreams-Spring-Course-Assignment8/assets/18058846/1aef7b16-8f84-4d38-a343-1403b7a717e5)
-
+![image](https://github.com/CanberkTimurlenk/RobotDreams-Spring-Course-Assignments/assets/18058846/250f419d-03bb-40ea-b94d-5a87e236945b)
 
 ```java
 private void checkIfOrderAmountIsSufficent(List<Product> products)
@@ -303,13 +299,11 @@ try-catch block
 <h2>InvalidPriceException</h2>
 
 1- A post request was sent to create product with a price "-100"
-
-![resim](https://github.com/CanberkTimurlenk/RobotDreams-Spring-Course-Assignment8/assets/18058846/49e480e8-bb3e-4a8a-ab14-f1fa006f9ad3)
-
+![image](https://github.com/CanberkTimurlenk/RobotDreams-Spring-Course-Assignments/assets/18058846/33bfe6a4-b575-4fa0-bcfb-31db9ab1e5d2)
 
 Observed Console Output
+![image](https://github.com/CanberkTimurlenk/RobotDreams-Spring-Course-Assignments/assets/18058846/66bfa4d6-26ca-4b6f-a418-1a0e7ffea7ae)
 
-![resim](https://github.com/CanberkTimurlenk/RobotDreams-Spring-Course-Assignment8/assets/18058846/2b3262b1-c881-48c1-97a3-2d0f851f1a87)
 
 
 ```java
