@@ -61,11 +61,12 @@ After the registration process, return a message to the customer like "The opera
 
 
 An example Post Request to create a resource
-<img width="1300" height="500" alt="Assignment4-PostRequest" src="https://github.com/CanberkTimurlenk/RobotDreams-Spring-Course-Assignment4/assets/18058846/136ef7b7-5116-4aca-903c-c74e6b8dabe5">
+<img width="1300" height="500" alt="Assignment4-PostRequest" src="https://github.com/CanberkTimurlenk/RobotDreams-Spring-Course-Assignments/assets/18058846/829dab74-77af-46f1-bd80-a83f2f90d380">
 
 
 An example Get Request after the previous post request
-<img width="1200" height="600" alt="Assignment4-FinalGetRequest" src="https://github.com/CanberkTimurlenk/RobotDreams-Spring-Course-Assignment4/assets/18058846/11397acd-840f-40bd-a183-0a7c0715f89b">
+<img width="1200" height="600" alt="Assignment4-FinalGetRequest" src="https://github.com/CanberkTimurlenk/RobotDreams-Spring-Course-Assignments/assets/18058846/219f9bae-40cc-4973-846d-1c563d5a7ea4">
+
 
 <br>
 <br>
@@ -85,10 +86,12 @@ Specify the fetch strategy for the product and order entities you created. Write
 <br>
 
 Save a product
-<img width="964" alt="ProductSave" src="https://github.com/CanberkTimurlenk/RobotDreams-Spring-Course-Assignment5/assets/18058846/7ce1f134-56f5-463b-b9b9-8beacd77ac79">
+<img width="964" alt="ProductSave" src="https://github.com/CanberkTimurlenk/RobotDreams-Spring-Course-Assignments/assets/18058846/8a550065-a080-448a-b82d-04820f642a29">
+
 
 Save an order
-<img width="969" alt="OrderCreated" src="https://github.com/CanberkTimurlenk/RobotDreams-Spring-Course-Assignment5/assets/18058846/255ea29c-99b8-48da-8e82-140ddcddcc6e">
+<img width="969" alt="OrderCreated" src="https://github.com/CanberkTimurlenk/RobotDreams-Spring-Course-Assignments/assets/18058846/2a3ef1d9-298f-43f7-89cf-d8793f11e01b">
+
 
 <br>
 <hr>
@@ -98,14 +101,13 @@ Save an order
 <br>
 
 Product Table <br>
-<img width="542" alt="ProductsTable" src="https://github.com/CanberkTimurlenk/RobotDreams-Spring-Course-Assignment5/assets/18058846/700cc438-f80d-4030-bef0-d157215ca9af">
+<img width="542" alt="ProductsTable" src="https://github.com/CanberkTimurlenk/RobotDreams-Spring-Course-Assignments/assets/18058846/0ea8013e-8872-4462-b446-f45828316458">
 
 Order Table <br>
-<img width="424" alt="OrdersTable" src="https://github.com/CanberkTimurlenk/RobotDreams-Spring-Course-Assignment5/assets/18058846/6b703979-9e84-4320-92e1-631ca29da2c8">
+<img width="424" alt="OrdersTable" src="https://github.com/CanberkTimurlenk/RobotDreams-Spring-Course-Assignments/assets/18058846/5cc7c1e4-6d9b-40f4-a810-5cc77de5494c">
 
 OrderProducts Table <br>
-<img width="435" alt="OrderProductsTable" src="https://github.com/CanberkTimurlenk/RobotDreams-Spring-Course-Assignment5/assets/18058846/6282c96d-4551-400a-9070-870d80b92353">
-
+<img width="435" alt="OrderProductsTable" src="https://github.com/CanberkTimurlenk/RobotDreams-Spring-Course-Assignments/assets/18058846/c734979b-5045-48ca-947f-93641a17269a">
 
 <br>
 <br>
