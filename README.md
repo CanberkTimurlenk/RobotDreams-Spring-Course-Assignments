@@ -41,7 +41,7 @@ Write code for an API that be able to list all products of the store by category
 
 If the query string is proven, the api delivers the products based on the given category, otherwise (If the request does not include the query string for categoryName) The api delivers all of the products.
 
-<img width="1200" height="600" alt="Assignment3" src="https://github.com/CanberkTimurlenk/RobotDreams-Spring-Course-Assignments/assets/18058846/aade66e6-448b-4838-b2f5-68d4dcdf1d9a">
+<img alt="Assignment3" src="https://github.com/CanberkTimurlenk/RobotDreams-Spring-Course-Assignments/assets/18058846/aade66e6-448b-4838-b2f5-68d4dcdf1d9a">
 
 <br>
 <br>
@@ -61,11 +61,11 @@ After the registration process, return a message to the customer like "The opera
 
 
 An example Post Request to create a resource
-<img width="1300" height="500" alt="Assignment4-PostRequest" src="https://github.com/CanberkTimurlenk/RobotDreams-Spring-Course-Assignments/assets/18058846/829dab74-77af-46f1-bd80-a83f2f90d380">
+<img alt="Assignment4-PostRequest" src="https://github.com/CanberkTimurlenk/RobotDreams-Spring-Course-Assignments/assets/18058846/829dab74-77af-46f1-bd80-a83f2f90d380">
 
 
 An example Get Request after the previous post request
-<img width="1200" height="600" alt="Assignment4-FinalGetRequest" src="https://github.com/CanberkTimurlenk/RobotDreams-Spring-Course-Assignments/assets/18058846/219f9bae-40cc-4973-846d-1c563d5a7ea4">
+<img alt="Assignment4-FinalGetRequest" src="https://github.com/CanberkTimurlenk/RobotDreams-Spring-Course-Assignments/assets/18058846/219f9bae-40cc-4973-846d-1c563d5a7ea4">
 
 
 <br>
@@ -86,11 +86,11 @@ Specify the fetch strategy for the product and order entities you created. Write
 <br>
 
 Save a product
-<img width="964" alt="ProductSave" src="https://github.com/CanberkTimurlenk/RobotDreams-Spring-Course-Assignments/assets/18058846/8a550065-a080-448a-b82d-04820f642a29">
+<img alt="ProductSave" src="https://github.com/CanberkTimurlenk/RobotDreams-Spring-Course-Assignments/assets/18058846/8a550065-a080-448a-b82d-04820f642a29">
 
 
 Save an order
-<img width="969" alt="OrderCreated" src="https://github.com/CanberkTimurlenk/RobotDreams-Spring-Course-Assignments/assets/18058846/2a3ef1d9-298f-43f7-89cf-d8793f11e01b">
+<img alt="OrderCreated" src="https://github.com/CanberkTimurlenk/RobotDreams-Spring-Course-Assignments/assets/18058846/2a3ef1d9-298f-43f7-89cf-d8793f11e01b">
 
 
 <br>
